@@ -4,12 +4,9 @@
 **Date:** March 17, 2026
 
 ## Initial Observations
-- What felt straightforward?
-Adding new folders and files through the Explorer panel felt intuitive.
-- What felt unfamiliar?
-Following the Stage -> Commit -> Sync workflow is still very new.
-- Where is the Source Control panel located?
-The Source Control panel is located in the left-hand panel list or can be accessed via the following keyboard shortcut on a Windows machine: Ctrl+Shift+G. 
+- **What felt straightforward?** Adding new folders and files through the Explorer panel felt intuitive.
+- **What felt unfamiliar?** Following the Stage -> Commit -> Sync workflow is still very new.
+- **Where is the Source Control panel located?** The Source Control panel is located in the left-hand panel list or can be accessed via the following keyboard shortcut on a Windows machine: Ctrl+Shift+G. 
 
 ## Understanding Git Workflow
 Explain in 2–3 sentences the difference between:
