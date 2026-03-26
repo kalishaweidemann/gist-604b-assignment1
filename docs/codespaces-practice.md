@@ -12,4 +12,5 @@
 Explain in 2–3 sentences the difference between:
 - Local workspace (Codespace)
 - Remote repository (GitHub.com)
+
 A local workspace is the place where you edit files, write code, and perform testing. A remote repository (e.g., GitHub) is an online version of a project (repository) where files, metadata, and version history are stored. After making changes to files in a local workspace, you commit and push them to the remote repository so the changes are saved online and other people can access them.
