@@ -22,8 +22,8 @@ This repository demonstrates GitHub skills including:
 - Creating labeled Issues to model collaborative workflows
 
 ## Repository Structure
-- `docs/` - documentation
-- `scripts/` - Python scripts
+- `docs/` for documentation
+- `scripts/` for Python scripts
 
 ## Usage
 To run the hello script:
