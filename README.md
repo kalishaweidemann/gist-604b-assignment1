@@ -1,4 +1,4 @@
-# GitHub Repository Management with Codespaces
+# GitHub repository management with Codespaces
 
 ## Overview
 This project demonstrates foundational GitHub workflows using a structured repository and cloud-based development environment. The assignment focuses on organizing project files, writing documentation in Markdown, running Python scripts, and using Git for version control through GitHub Codespaces.
@@ -6,7 +6,7 @@ This project demonstrates foundational GitHub workflows using a structured repos
 The repository serves as a practical example of how version control and collaborative tools support reproducible and organized workflows in a development environment.
 
 
-## Skills Demonstrated
+## Skills demonstrated
 - Using Git workflows (stage → commit → push)
 - Organizing a clean and logical repository structure
 - Writing clear technical documentation in Markdown
@@ -15,7 +15,7 @@ The repository serves as a practical example of how version control and collabor
 - Managing code and documentation in a cloud-based environment
 
 
-## Project Overview
+## Project overview
 This project highlights key GitHub capabilities, including:
 
 - Creating and organizing a professional repository structure  
@@ -25,7 +25,7 @@ This project highlights key GitHub capabilities, including:
 - Using issues to simulate collaborative workflows  
 
 
-## Repository Structure
+## Repository structure
 - `docs/` — project documentation and notes  
 - `scripts/` — Python scripts used in the assignment  
 
