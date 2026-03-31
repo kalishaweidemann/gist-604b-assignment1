@@ -1,31 +1,48 @@
-**Student:** Kalisha Weidemann    
-Course: GIST 604B - Open Source GIS  
-Module 1: Open Source Infrastructure & Workflows  
-Assignment 1: GitHub Repository Management  
-University of Arizona  
+# GitHub Repository Management with Codespaces
 
-## Learning Goals
-In this assignment, I'm learning:
-- GitHub repository management and organization
-- Professional documentation with Markdown
-- Writing and running Python scripts
-- Using GitHub Codespaces as a cloud development environment
-- Practicing the Git workflow (stage → commit → push)
-- Understanding how open source projects use Issues for collaboration
+## Overview
+This project demonstrates foundational GitHub workflows using a structured repository and cloud-based development environment. The assignment focuses on organizing project files, writing documentation in Markdown, running Python scripts, and using Git for version control through GitHub Codespaces.
 
-## Repository Purpose
-This repository demonstrates GitHub skills including:
-- Creating and organizing a professional project structure
-- Writing clear technical documentation
-- Executing Python code in GitHub Codespaces
-- Using Git for version control
-- Creating labeled Issues to model collaborative workflows
+The repository serves as a practical example of how version control and collaborative tools support reproducible and organized workflows in a development environment.
+
+
+## Skills Demonstrated
+- Using Git workflows (stage → commit → push)
+- Organizing a clean and logical repository structure
+- Writing clear technical documentation in Markdown
+- Running Python scripts in GitHub Codespaces
+- Understanding how GitHub Issues support collaboration
+- Managing code and documentation in a cloud-based environment
+
+
+## Project Overview
+This project highlights key GitHub capabilities, including:
+
+- Creating and organizing a professional repository structure  
+- Writing and updating project documentation  
+- Executing Python code within Codespaces  
+- Tracking and managing changes using Git version control  
+- Using issues to simulate collaborative workflows  
+
 
 ## Repository Structure
-- `docs/` for documentation
-- `scripts/` for Python scripts
+- `docs/` — project documentation and notes  
+- `scripts/` — Python scripts used in the assignment  
+
+
+## Workflow
+The project follows a standard GitHub workflow:
+
+1. Make changes to files in Codespaces  
+2. Stage changes  
+3. Commit with descriptive messages  
+4. Sync (push) changes to GitHub  
+
+This workflow ensures that all changes are tracked, versioned, and recoverable over time.
+
 
 ## Usage
-To run the hello script:
+To run the example Python script:
 
+```bash
 python scripts/hello.py
