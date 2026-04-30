@@ -6,10 +6,10 @@ I work at the intersection of digital systems and spatial thinking, where user b
 With a background in web strategy and a growing focus on geospatial analysis and remote sensing, I'm interested in developing workflows that emphasizes clarity, usability, and reproducibility across desktop GIS, Python, spatial databases, and web mapping.
 
 ## Sites
-- **Primary portfolio:** https://kalishaweidemann.com  
-  A comprehensive portfolio of GIS work including project writeups, context, and broader work beyond GitHub.
+- **Primary site:** https://kalishaweidemann.com  
+  A comprehensive overview of GIS work including project writeups, context, and broader work beyond GitHub.
 
-- **GitHub Pages portfolio:** https://kalishaweidemann.github.io/  
+- **GitHub portfolio:** https://kalishaweidemann.github.io/  
   A technical portfolio highlighting GIS workflows and projects completed using Git, GitHub, and Codespaces.
 
 ## Projects
