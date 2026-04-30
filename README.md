@@ -5,6 +5,13 @@ I work at the intersection of digital systems and spatial thinking, where user b
 
 With a background in web strategy and a growing focus on geospatial analysis and remote sensing, I'm interested in developing workflows that emphasizes clarity, usability, and reproducibility across desktop GIS, Python, spatial databases, and web mapping.
 
+## Portfolio sites
+- **Primary portfolio:** https://kalishaweidemann.com  
+  A comprehensive portfolio including project writeups, context, and broader work beyond GitHub.
+
+- **GitHub Pages portfolio:** https://kalishaweidemann.github.io/  
+  A technical portfolio highlighting GIS workflows and projects completed using Git, GitHub, and Codespaces.
+
 ## Projects
 - [QGIS tutorials portfolio](https://github.com/kalishaweidemann/qgis-tutorials-portfolio)  
   Desktop GIS workflows including projections, attribute management, raster and vector analysis, spatial queries, and cartographic map production.
@@ -23,35 +30,35 @@ With a background in web strategy and a growing focus on geospatial analysis and
 
 ## Skills
 
-### GIS & Spatial Analysis
+### GIS & spatial analysis
 - Coordinate reference systems (CRS) and projections  
 - Vector and raster data processing and analysis  
 - Spatial queries, overlays, and joins  
 - Interpolation and raster-based workflows  
 - Data preparation and transformation across formats  
 
-### Programming & Data Analysis
+### Programming & data analysis
 - Python (pandas, GeoPandas, Rasterio)  
 - Writing reusable functions and modular scripts  
 - Jupyter Notebook workflows for analysis and visualization  
 - Automated testing with `pytest`  
 - Data manipulation, filtering, and aggregation  
 
-### Spatial Databases
+### Spatial databases
 - PostgreSQL / PostGIS  
 - Writing and optimizing spatial SQL queries  
 - Geometry operations (`ST_Area`, `ST_Length`, `ST_Intersects`, `ST_DWithin`)  
 - Spatial joins and multi-table analysis  
 - Database setup and management using Docker  
 
-### Web GIS & Visualization
+### Web GIS & visualization
 - Leaflet (JavaScript) for interactive web maps  
 - GeoJSON data integration (point, line, polygon)  
 - Popups, symbology, and layer controls  
 - Responsive web map layout and UI design  
 - Publishing web maps with GitHub Pages  
 
-### Tools & Environment
+### Tools
 - QGIS  
 - Git & GitHub (version control, repository management)  
 - GitHub Codespaces (cloud development environments)  
