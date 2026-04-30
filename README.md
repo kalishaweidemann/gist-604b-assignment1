@@ -1,4 +1,4 @@
-# GitHub GIS Portfolio
+# GitHub spatial analysis portfolio
 
 ## About
 I work at the intersection of digital systems and spatial thinking, where user behavior meets landscapes and real-world context.
